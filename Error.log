@@ -1,0 +1,2 @@
+String or binary data would be truncated in table 'TempDB2.dbo.ComprasTemp', column 'DireccionSucursal'. Truncated value: 'kilometro 8.6 carretera antigua a el salvador, centro corporativo muxbal, torre oeste, oficina 503 y'.
+The statement has been terminated.
